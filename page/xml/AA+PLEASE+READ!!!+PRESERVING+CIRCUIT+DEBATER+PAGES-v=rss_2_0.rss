@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:access="http://www.bloglines.com/about/specs/fac-1.0">
+  <access:restriction relationship="allow" />
+  <channel>
+    <title>Wikispaces : circuitdebater : AA PLEASE READ!!! PRESERVING CIRCUIT DEBATER PAGES - edits</title>
+    <link>http://circuitdebater.wikispaces.com/AA+PLEASE+READ%21%21%21+PRESERVING+CIRCUIT+DEBATER+PAGES</link>
+    <description>Page edits at Wikispaces : circuitdebater : AA PLEASE READ!!! PRESERVING CIRCUIT DEBATER PAGES</description>
+    
+    <webMaster>help@wikispaces.com (Wikispaces)</webMaster>
+    <generator>http://www.wikispaces.com/</generator>
+    <ttl>60</ttl>
+    <atom:link href="http://circuitdebater.wikispaces.com/page/xml/AA+PLEASE+READ%21%21%21+PRESERVING+CIRCUIT+DEBATER+PAGES?v=rss_2_0" rel="self" type="application/rss+xml" />
+    <image>
+      <title>Wikispaces : circuitdebater : AA PLEASE READ!!! PRESERVING CIRCUIT DEBATER PAGES - edits</title>
+      <url>http://www.wikispaces.com/i/l.png</url>
+      <link>http://circuitdebater.wikispaces.com/AA+PLEASE+READ%21%21%21+PRESERVING+CIRCUIT+DEBATER+PAGES</link>
+      <width>140</width>
+      <height>48</height>
+      <description>Wikispaces</description>
+    </image>
+
+    <item>
+      <title>AA PLEASE READ!!! PRESERVING CIRCUIT DEBATER PAGES</title>
+      <link>http://circuitdebater.wikispaces.com/page/diff/AA+PLEASE+READ%21%21%21+PRESERVING+CIRCUIT+DEBATER+PAGES/630176317</link>
+      <dc:creator>70.178.40.158</dc:creator>
+      <guid isPermaLink="true">http://circuitdebater.wikispaces.com/page/diff/AA+PLEASE+READ%21%21%21+PRESERVING+CIRCUIT+DEBATER+PAGES/630176317</guid>
+      <comments>http://circuitdebater.wikispaces.com/message/list/AA+PLEASE+READ%21%21%21+PRESERVING+CIRCUIT+DEBATER+PAGES</comments>
+      <pubDate>Sun, 27 May 2018 21:52:30 GMT</pubDate>
+      <description>&lt;style type=&quot;text/css&quot;&gt;
+  del.ws-diff-delete, span.ws-diff-delete {
+    background-color: #F88;
+    color: #800;
+    text-decoration: inherit;
+    border: 1px solid #F88;
+  }
+  ins.ws-diff-insert, span.ws-diff-insert {
+    background-color: #AFA;
+    color: #080;
+    text-decoration: inherit;
+    border: 1px solid #AFA;
+  }
+&lt;/style&gt;Alright. So wiki spaces is closing down and I wanna preserve the pages. The way back machine documents all debater pages (the thing on the left side of the page; the column with all the names) all the way up to c or d. You have to click See more on the circuit debater website to see all, but... on the way back machine, you cant see it. (The wayback machine archives all internet pages so you can check em out in the future). Therefore, I&#039;m creating this page so we can go through download the word docs or something, and just paste it back on here. PLEASE HELP OUT!&lt;br/&gt;
+&lt;ins class=&quot;ws-diff-insert&quot;&gt;Can anyone here code? &lt;br/&gt;
+https://www.mediawiki.org/wiki/Exporting_all_the_files_of_a_wiki&lt;/ins&gt;&lt;br/&gt;
+</description>
+          </item>
+
+  </channel>
+</rss>

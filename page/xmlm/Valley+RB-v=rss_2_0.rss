@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:access="http://www.bloglines.com/about/specs/fac-1.0">
+  <access:restriction relationship="allow" />
+  <channel>
+    <title>Wikispaces : circuitdebater : Valley RB - messages</title>
+    <link>http://circuitdebater.wikispaces.com/Valley+RB</link>
+    <description>Messages at Wikispaces : circuitdebater : Valley RB</description>
+    
+    <webMaster>help@wikispaces.com (Wikispaces)</webMaster>
+    <generator>http://www.wikispaces.com/</generator>
+    <ttl>60</ttl>
+    <atom:link href="http://circuitdebater.wikispaces.com/page/xml/Valley+RB?v=rss_2_0" rel="self" type="application/rss+xml" />
+    <image>
+      <title>Wikispaces : circuitdebater : Valley RB - messages</title>
+      <url>http://www.wikispaces.com/i/l.png</url>
+      <link>http://circuitdebater.wikispaces.com/Valley+RB</link>
+      <width>140</width>
+      <height>48</height>
+      <description>Wikispaces</description>
+    </image>
+
+
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:access="http://www.bloglines.com/about/specs/fac-1.0">
+  <access:restriction relationship="allow" />
+  <channel>
+    <title>Wikispaces : circuitdebater : PV Peninsula HZ and DT (Henry Zhang and Daniel Tartakovsky) - messages</title>
+    <link>https://circuitdebater.wikispaces.com/PV+Peninsula+HZ+and+DT+%28Henry+Zhang+and+Daniel+Tartakovsky%29</link>
+    <description>Messages at Wikispaces : circuitdebater : PV Peninsula HZ and DT (Henry Zhang and Daniel Tartakovsky)</description>
+    
+    <webMaster>help@wikispaces.com (Wikispaces)</webMaster>
+    <generator>https://www.wikispaces.com/</generator>
+    <ttl>60</ttl>
+    <atom:link href="https://circuitdebater.wikispaces.com/page/xml/PV+Peninsula+HZ+and+DT+%28Henry+Zhang+and+Daniel+Tartakovsky%29?v=rss_2_0" rel="self" type="application/rss+xml" />
+    <image>
+      <title>Wikispaces : circuitdebater : PV Peninsula HZ and DT (Henry Zhang and Daniel Tartakovsky) - messages</title>
+      <url>https://www.wikispaces.com/i/l.png</url>
+      <link>https://circuitdebater.wikispaces.com/PV+Peninsula+HZ+and+DT+%28Henry+Zhang+and+Daniel+Tartakovsky%29</link>
+      <width>140</width>
+      <height>48</height>
+      <description>Wikispaces</description>
+    </image>
+
+
+  </channel>
+</rss>

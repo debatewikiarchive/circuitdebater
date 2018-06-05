@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:access="http://www.bloglines.com/about/specs/fac-1.0">
+  <access:restriction relationship="allow" />
+  <channel>
+    <title>Wikispaces : circuitdebater : Flintridge Sacred Heart Academy MA (Monica Amestoy) - messages</title>
+    <link>https://circuitdebater.wikispaces.com/Flintridge+Sacred+Heart+Academy+MA+%28Monica+Amestoy%29</link>
+    <description>Messages at Wikispaces : circuitdebater : Flintridge Sacred Heart Academy MA (Monica Amestoy)</description>
+    
+    <webMaster>help@wikispaces.com (Wikispaces)</webMaster>
+    <generator>https://www.wikispaces.com/</generator>
+    <ttl>60</ttl>
+    <atom:link href="https://circuitdebater.wikispaces.com/page/xml/Flintridge+Sacred+Heart+Academy+MA+%28Monica+Amestoy%29?v=rss_2_0" rel="self" type="application/rss+xml" />
+    <image>
+      <title>Wikispaces : circuitdebater : Flintridge Sacred Heart Academy MA (Monica Amestoy) - messages</title>
+      <url>https://www.wikispaces.com/i/l.png</url>
+      <link>https://circuitdebater.wikispaces.com/Flintridge+Sacred+Heart+Academy+MA+%28Monica+Amestoy%29</link>
+      <width>140</width>
+      <height>48</height>
+      <description>Wikispaces</description>
+    </image>
+
+
+  </channel>
+</rss>
